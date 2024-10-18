@@ -1,0 +1,9 @@
+INTEGRANTES
+
+Jaqueline Martins - RM551744 - DevOps & Cloud Computing
+Mariana Bastos - RM97510 - Java Advanced
+Matheus Oliveira - RM551155 - Mobile Development/Database
+Victor Freitas - RM99928 - Advanced Business with C#/Quality Assurance
+Breno Giacoppini - RM98695 - Artificial Intelligence
+
+LINK DO GITHUB: https://github.com/Mari-Bastet/JAVACHALLENGEFINAL
