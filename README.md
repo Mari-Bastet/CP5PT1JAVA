@@ -1,5 +1,18 @@
-# CP5PT1JAVA
+# Atividade - Criptografia com RSA
 
+## Integrantes
+Jaqueline Martins - RM551744 - DevOps & Cloud Computing <br>
+Mariana Bastos    - RM97510  - Java Advanced <br>
+Matheus Oliveira  - RM551155 - Mobile Development/Database <br>
+Victor Freitas    - RM99928  - Advanced Business with C#/Quality Assurance<br>
+Breno Giacoppini  - RM98695  - Artificial Intelligence <br>
+
+O objetivo deste projeto é desenvolver um aplicativo em Java que implemente uma comunicação segura entre um cliente e um servidor, utilizando o protocolo TCP/IP e sockets. A aplicação permitirá o envio e a recepção de mensagens criptografadas em ambas as direções (cliente para servidor e servidor para cliente).
+
+Para garantir a segurança das mensagens transmitidas, será utilizado o algoritmo de criptografia RSA (Rivest-Shamir-Adleman). A criptografia RSA será baseada em números primos escolhidos
+para gerar as chaves pública e privada necessárias para a criptografia e descriptografia das mensagens.
+
+IDE UTILIZADA: Eclipse
 
 ![image](https://github.com/user-attachments/assets/71cdf0cd-91de-4ff8-aa82-948cd7186bc9)
 
